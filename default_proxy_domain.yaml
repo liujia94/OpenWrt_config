@@ -43,5 +43,6 @@ payload:
   - '+.bajie.pw'
   - '+.bajie.live'
   - '+.bajie.pro'
-#other
-  - 'huarun.win'
+#others
+  - '+.huarun.win'
+  - '+.clash.md'
