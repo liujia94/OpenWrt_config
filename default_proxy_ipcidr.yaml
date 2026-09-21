@@ -1,3 +1,3 @@
 payload:
-#telegram
+#telegram FakeTLS/MTProxy 
   - '194.221.250.50/32'
